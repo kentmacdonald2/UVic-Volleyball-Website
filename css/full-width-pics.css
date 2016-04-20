@@ -24,7 +24,7 @@ body {
 }
 */
 .image-bg-fluid-height {
-    background: url('/img/HeadPic2.jpg') no-repeat center center scroll;
+    background: url('HeadPic2.jpg') no-repeat center center scroll;
     padding: 100px 0;
 }
 
