@@ -1,2 +1,2 @@
-# UVic-Volleyball-Website
-Website for UVic Volleyball Club
+# vball-club-website
+Bootstrap website for the UVic Volleyball Club
